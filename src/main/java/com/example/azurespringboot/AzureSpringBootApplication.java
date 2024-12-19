@@ -15,6 +15,6 @@ public class AzureSpringBootApplication {
 
     @GetMapping("/message")
     public String hello() {
-        return "Hello ! Welcome to Azure Spring Boot! Happy to see you !!";
+        return "Sabarivasan, How are you?!!";
     }
 }
